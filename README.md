@@ -34,5 +34,4 @@ The application is connected to a backend powered by Appwrite, which handles the
 Contributions are welcome! 
 Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-License This project is licensed under the MIT License
 Made with @Prathmesh G - Shadowgit.
