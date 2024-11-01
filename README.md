@@ -4,7 +4,7 @@ The application is connected to a backend powered by Appwrite, which handles the
 
 
 ## bash Copy code :
-- git clone https://github.com/Shadowgit98/StickyNotes.git
+- git clone https://github.com/Prathmeshsg/StickyNotes.git
 - cd sticky-note-app
 - Install Dependencies
 
